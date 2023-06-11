@@ -1,7 +1,7 @@
 # California-house-price-prediction
 Building a linear regression model to predict house prices in California.
 
-## A Regression Model to Predict House Prices using Califonia Housing Dataset.
+## A Regression Model to Predict House Prices using California Housing Dataset.
 
  My focus on this model is to build a robust Machine Learning model that predicts the housing prices in Califonia in US. The data was collected by US Census Bureau in 1990.
 
